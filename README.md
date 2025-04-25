@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate with as many developers and researchers
 - 📫 How to reach me
 - email:maureenkaranja5@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Maureen-karanja9707/Maureen-karanja9707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
